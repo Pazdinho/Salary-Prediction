@@ -1,4 +1,4 @@
-# Salary-Prediction
+# Salary Prediction
 
 This is the *Salary prediction* project I made myself.
 
